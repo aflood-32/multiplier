@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="957.459px" height="957.46px" viewBox="0 0 957.459 957.46" enable-background="new 0 0 957.459 957.46"
+	 xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<circle opacity="0.07" fill="#595FE9" cx="478.729" cy="478.729" r="478.729"/>
+		<circle opacity="0.05" fill="#595FE9" cx="478.729" cy="478.73" r="303.615"/>
+		<path opacity="0.1" fill="#595FE9" d="M659.138,478.731c0,99.635-80.773,180.407-180.407,180.407
+			c-99.64,0-180.409-80.771-180.409-180.407c0-99.637,80.77-180.408,180.409-180.408
+			C578.364,298.323,659.138,379.094,659.138,478.731z"/>
+		<circle opacity="0.1" fill="#595FE9" cx="478.729" cy="478.73" r="71.663"/>
+	</g>
+</g>
+</svg>
